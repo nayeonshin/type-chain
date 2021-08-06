@@ -1,0 +1,9 @@
+{
+  "name": "type-chain",
+  "version": "1.0.0",
+  "description": "Blockchain in TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/nayeonshin/type-chain.git",
+  "author": "Nayeon Shin <dev.nayeon.shin@gmail.com>",
+  "license": "MIT"
+}

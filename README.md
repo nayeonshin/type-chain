@@ -1,1 +1,3 @@
-"# type-chain" 
+# type-chain
+
+Blockchain in TypeScript
