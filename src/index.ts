@@ -38,7 +38,7 @@ class Block {
 }
 
 const genesisBlock: Block = new Block(
-  "First b",
+  "First block",
   "2021202120212021",
   0,
   "",
