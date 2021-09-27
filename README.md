@@ -13,4 +13,5 @@ Write the new block's name between `createNewBlock`'s parentheses.
 
 ## Output
 `console.log(blockchain);`
+
 ![Console output](https://github.com/nayeonshin/type-chain/blob/main/assets/output.png)
