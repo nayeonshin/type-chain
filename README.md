@@ -2,10 +2,10 @@
 
 TypeChain is a small blockchain in TypeScript.
 
-## To Run the script
+## To Run the Script
 `$ yarn start`
 
-### To Create a New Block
+## To Create a New Block
 ```typescript
 createNewBlock("N-th block");
 ```
